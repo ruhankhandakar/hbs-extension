@@ -9,6 +9,8 @@
 
 This extension contains Handlebars snippets for [Vs Code](https://code.visualstudio.com/) editor.
 
+![demos](./demos/demo.gif)
+
 ## Installation
 
 In order to install an extension you need to launch the Command Pallete `(Ctrl + Shift + P or Cmd + Shift + P)` and type Extensions.
