@@ -2,6 +2,11 @@
 
 ---
 
+[![Version](https://vsmarketplacebadge.apphb.com/version/RuhanRK.hbs-snippets.svg)](https://vsmarketplacebadge.apphb.com/version/RuhanRK.hbs-snippets.svg)
+[![Install](https://vsmarketplacebadge.apphb.com/installs/RuhanRK.hbs-snippets.svg)](https://vsmarketplacebadge.apphb.com/installs/RuhanRK.hbs-snippets.svg)
+[![Downloads](https://vsmarketplacebadge.apphb.com/downloads/RuhanRK.hbs-snippets.svg)](https://vsmarketplacebadge.apphb.com/downloads/RuhanRK.hbs-snippets.svg)
+[![Ratings](https://vsmarketplacebadge.apphb.com/rating/RuhanRK.hbs-snippets.svg)](https://vsmarketplacebadge.apphb.com/rating/RuhanRK.hbs-snippets.svg)
+
 This extension contains Handlebars snippets for [Vs Code](https://code.visualstudio.com/) editor.
 
 ## Installation
@@ -33,3 +38,8 @@ Below is a list of all available handlebar snippets and the command of each one.
 |  `hpar→` | `{{> }}`                             |
 |   `hun→` | `{{#unless }} {{/unless}}`           |
 |   `hwi→` | `{{#with }} {{/with}}`               |  |
+
+---
+
+Thank you for using this extension.
+If you like it then please give me a Rating and If you have little bit of time then please give me a star in Github , Here is repo Link [Ruhan Khandakar](https://github.com/ruhan-khandakar-au3/)
