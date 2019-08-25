@@ -1,0 +1,38 @@
+{
+  "name": "hbs-snippets",
+  "displayName": "hbs snippets",
+  "description": "Snippets for hbs code",
+  "publisher": "RuhanRK",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ruhan-khandakar-au3/hbs-extension"
+  },
+  "icon": "icon.png",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.37.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "html",
+        "path": "./snippets/snippets.json"
+      },
+      {
+        "language": "js",
+        "path": "./snippets/snippets.json"
+      },
+      {
+        "language": "handlebars",
+        "path": "./snippets/snippets.json"
+      },
+      {
+        "language": "hbs",
+        "path": "./snippets/snippets.json"
+      }
+    ]
+  }
+}

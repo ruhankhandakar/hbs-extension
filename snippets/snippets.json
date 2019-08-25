@@ -1,0 +1,37 @@
+{
+  "HBS": {
+    "prefix": "hbs",
+    "body": "{{ ${0} }}",
+    "description": "HBS"
+  },
+  "if block": {
+    "prefix": "hif",
+    "body": "{{#if ${1:condition}}}\n\t${0}\n{{/if}}",
+    "description": "IF"
+  },
+  "else if block": {
+    "prefix": "helif",
+    "body": "{{#if ${2:condition}}}\n\t${1}\n{{else}}\n\t${0}\n{{/if}}",
+    "description": "IF ELSE"
+  },
+  "each block": {
+    "prefix": "heach",
+    "body": "{{ #each ${1:list} }}\n\t${0}\n{{/each}}",
+    "description": "EACH"
+  },
+  "partial": {
+    "prefix": "hpar",
+    "body": "{{> ${0}}}",
+    "description": "PARTIAL"
+  },
+  "unless block": {
+    "prefix": "hun",
+    "body": "{{#unless ${1}}}\n\t${0}\n{{/unless}}",
+    "description": "UNLESS"
+  },
+  "with block": {
+    "prefix": "hwi",
+    "body": "{{#with ${1}}}\n\t${0}\n{{/with}}",
+    "description": "WITH"
+  }
+}
