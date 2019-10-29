@@ -13,7 +13,7 @@
     "hbs"
   ],
   "icon": "icon.png",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "engines": {
     "vscode": "^1.37.0"
   },

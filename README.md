@@ -39,7 +39,7 @@ Below is a list of all available handlebar snippets and the command of each one.
 |    `heach→` | `each method`       |
 |     `hpar→` | `partial method`    |
 |      `hun→` | `unless method`     |
-| `hcusfunc→` | `Custom Helpter`    |
+| `hcusfunc→` | `Custom Helper`     |
 |      `hwi→` | `with condition`    |  |
 
 ---
