@@ -16,7 +16,7 @@
   },
   "each block": {
     "prefix": "heach",
-    "body": "{{ #each ${1:list} }}\n\t${0}\n{{/each}}",
+    "body": "{{#each ${1:list} }}\n\t${0}\n{{/each}}",
     "description": "EACH"
   },
   "partial": {
@@ -33,5 +33,10 @@
     "prefix": "hwi",
     "body": "{{#with ${1}}}\n\t${0}\n{{/with}}",
     "description": "WITH"
+  },
+  "hbs custom function": {
+    "prefix": "hcusfunc",
+    "body": "hbs.registerHelper('${is}', function(${parameter}, ${string}, ${options}) {\n if (parameter == string)\t{\n  return ${options}.fn(this)\n } else {\n  return ${options}.inverse(this)\n }\n})",
+    "description": "HELPER FUNCTION"
   }
 }

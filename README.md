@@ -31,15 +31,16 @@ Below is a list of all available handlebar snippets and the command of each one.
 
 ## Available Methods
 
-|   Prefix | Method                               |
-| -------: | ------------------------------------ |
-|   `hbs→` | `{{ }}`                              |
-|   `hif→` | `{{#if condition}} {{/if}}`          |
-| `helif→` | `{{#if condition}} {{else}} {{/if}}` |
-| `heach→` | `{{#each list }} {{/each}}`          |
-|  `hpar→` | `{{> }}`                             |
-|   `hun→` | `{{#unless }} {{/unless}}`           |
-|   `hwi→` | `{{#with }} {{/with}}`               |  |
+|      Prefix | Method              |
+| ----------: | ------------------- |
+|      `hbs→` | `simple hbs syntax` |
+|      `hif→` | `if condition`      |
+|    `helif→` | `if else condition` |
+|    `heach→` | `each method`       |
+|     `hpar→` | `partial method`    |
+|      `hun→` | `unless method`     |
+| `hcusfunc→` | `Custom Helpter`    |
+|      `hwi→` | `with condition`    |  |
 
 ---
 

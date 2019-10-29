@@ -1,5 +1,11 @@
 # Change Log
 
+## [2.0.1]
+
+- Fix some issue
+- Add custom helper function
+- Add support for JavaScript file
+
 ## [1.0.2]
 
 - Add demo
