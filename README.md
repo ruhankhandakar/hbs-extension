@@ -31,18 +31,20 @@ Below is a list of all available handlebar snippets and the command of each one.
 
 ## Available Methods
 
-|      Prefix | Method              |
-| ----------: | ------------------- |
-|      `hbs→` | `simple hbs syntax` |
-|      `hif→` | `if condition`      |
-|    `helif→` | `if else condition` |
-|    `heach→` | `each method`       |
-|     `hpar→` | `partial method`    |
-|      `hun→` | `unless method`     |
-| `hcusfunc→` | `Custom Helper`     |
-|      `hwi→` | `with condition`    |  |
+|      Prefix | Method                   |
+| ----------: | ------------------------ |
+|      `hbs→` | `simple hbs syntax`      |
+|      `hif→` | `if condition`           |
+|    `helif→` | `if else condition`      |
+|    `heach→` | `each method`            |
+|     `hpar→` | `partial method`         |
+|      `hun→` | `unless method`          |
+| `hcusfunc→` | `Custom Helper function` |
+|     `hlog→` | `Hbs logger helper`      |
+|  `hlookup→` | `Hbs lookup helper`      |
+|      `hwi→` | `with condition`         |  |
 
 ---
 
 Thank you for using this extension.
-If you like it then please give me a Rating and If you have little bit of time then please give me a star in Github , Here is repo Link [Ruhan Khandakar](https://github.com/ruhan-khandakar-au3/)
+If you like it then please give me a Rating and If you have little bit of time then please give me a star in Github , Here is repo Link [Ruhan Khandakar](https://github.com/ruhankhandakar/hbs-extension)

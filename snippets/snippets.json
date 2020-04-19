@@ -38,5 +38,15 @@
     "prefix": "hcusfunc",
     "body": "hbs.registerHelper('${is}', function(${parameter}, ${string}, ${options}) {\n if (parameter == string)\t{\n  return ${options}.fn(this)\n } else {\n  return ${options}.inverse(this)\n }\n})",
     "description": "HELPER FUNCTION"
+  },
+  "lookup": {
+    "prefix": "hlookup",
+    "body": "{{lookup ${0} @{${1:index}} }}",
+    "description": "lookup helpers"
+  },
+  "log": {
+    "prefix": "hlog",
+    "body": "{{log '${0}' }}",
+    "description": "log helpers"
   }
 }

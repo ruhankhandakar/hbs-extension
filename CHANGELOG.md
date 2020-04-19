@@ -1,5 +1,10 @@
 # Change Log
 
+## [2.2.0]
+
+- Add log & lookup helper function
+- Fix github link
+
 ## [2.0.1]
 
 - Fix some issue
